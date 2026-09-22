@@ -2,5 +2,7 @@
 
 In class demo for stat545a
 
-Aislinn Dressler
+Aislinn Dressler  
 MASc Civil Engineering
+
+this is an edit I made on RStudio
