@@ -10,5 +10,3 @@ this is an edit I made on RStudio
 this is an edit I made on github!
 
 this is an edit I am going to send to GitHub with the terminal
-
-I am going to defy my professor and push to main
